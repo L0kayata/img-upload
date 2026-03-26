@@ -212,3 +212,6 @@ __marimo__/
 
 # Credentials
 credentials.toml
+
+# Test files
+test/
